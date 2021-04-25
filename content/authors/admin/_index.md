@@ -11,7 +11,7 @@ social:
     icon_pack: fas
     link: /#contact
     label: Contact
-  - icon: Zhihu
+  - icon: zhihu
     icon_pack: fab
     link: https://www.zhihu.com/people/lu-hao-peng-26
     label: Zhihu
