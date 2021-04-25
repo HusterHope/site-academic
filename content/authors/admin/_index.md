@@ -1,77 +1,50 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Haopeng Lu
+role: Ph.d student
+avatar_filename: self-0.jpeg
+bio: My research interests include virtual reality and human-computer interaction.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Virtual Reality
+  - Human-Computer Interaction
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+    label: Contact
+  - icon: Zhihu
+    icon_pack: fab
+    link: https://www.zhihu.com/people/lu-hao-peng-26
+    label: Zhihu
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=MRcmrtgAAAAJ
+    label: Google Scholar
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/HusterHope
+    label: Github
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/%E6%98%8A%E9%B9%8F-%E9%B2%81-53a7a713b/
+    label: LinkedIn
+organizations:
+  - name: Shanghai Jiao Tong University
+    url: https://www.sjtu.edu.cn/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: Visiting Student (2019.7 - )
+      institution: Peking University
+      year: ""
+    - course: PhD in Computer Applied Technology (2018.9 - )
+      institution: Shanghai Jiao Tong University
+      year: ""
+    - course: Visiting Student (2018.2)
+      institution: UC Berkeley
+    - course: B.Eng. in Digital Media Technology (2014.9-2018.6)
+      institution: SSE, Huazhong University of Science and Technology
+      year: ""
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am currently a Phd student of Computer Applied Technology at the [Future Media Network Collaborative Innovation Center](https://cmic.sjtu.edu.cn/), advised by Wen Gao. I'm working in [National Engineering Laboratory for Video Technology](http://idm.pku.edu.cn/) as a visiting student advised by Siwei Ma. My research interests include virtual reality and human-computer interaction. I got my B.Eng. degree in Digital Media Technology at **Huazhong University of Science and Technology** in 2018, advised by Prof. Tao Wu.
