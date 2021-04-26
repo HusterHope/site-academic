@@ -23,12 +23,12 @@ twitter: ''
 email: luhp9696 AT gmail DOT com
 # phone: 888 888 88 88
 address:
-  street: No.151, Zhongguancun North Street, Haidian District, , China
-  city: Beijing
-  region: Haidian District
+  street: No.151, Zhongguancun North Street, Haidian District, Beijing, China
+  # city: Beijing
+  # region: Haidian District
   # postcode: '94305'
-  country: P.R. China
-  country_code: CN
+  # country: P.R. China
+  # country_code: CN
 # coordinates:
   # latitude: '37.4275'
   # longitude: '-122.1697'
