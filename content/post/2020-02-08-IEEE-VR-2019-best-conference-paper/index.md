@@ -1,9 +1,9 @@
 ---
 title: Reading | IEEE VR 2019 Best Conference Paper
-subtitle: Virtual Objects Look Farther on the Sides: The Anisotropy of Distance Perception in Virtual Reality
+subtitle: Virtual Objects Look Farther on the Sides - The Anisotropy of Distance Perception in Virtual Reality
 
 # Summary for listings and search engines
-summary: Virtual Objects Look Farther on the Sides: The Anisotropy of Distance Perception in Virtual Reality
+summary: Virtual Objects Look Farther on the Sides - The Anisotropy of Distance Perception in Virtual Reality
 
 # Link this post with a project
 projects: []
