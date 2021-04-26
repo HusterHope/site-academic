@@ -48,5 +48,3 @@ superuser: true
 highlight_name: false
 ---
 I am currently a Phd student of Computer Applied Technology at the [Future Media Network Collaborative Innovation Center](https://cmic.sjtu.edu.cn/), advised by Wen Gao. I'm working in [National Engineering Laboratory for Video Technology](http://idm.pku.edu.cn/) as a visiting student advised by Siwei Ma. My research interests include virtual reality and human-computer interaction. I got my B.Eng. degree in Digital Media Technology at **Huazhong University of Science and Technology** in 2018, advised by Prof. Tao Wu. 
-
-(This page is still under construction..)
