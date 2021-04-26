@@ -33,8 +33,7 @@ publication_types: ["1"]
 publication: In 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
 publication_short: In *IEEE VR 2021* (Poster)
 
-abstract: The increasing popularity of virtual reality provides new opportunities for online exhibitions, especially for fragile artwork in museums. However, the limited guidance approaches of virtual museums might hinder the acquisition of knowledge. In this paper, a novel interaction concept is proposed named GazeTance Guidance, which leverages the user’s gaze point and interact-distance towards the region of interest (ROI) and helps users appreciate artworks more organized.
-We conducted a series of comprehension tasks on several long scroll paintings and verified the necessity of guidance. Comparing with no-guidance mechanisms, participants showed a better memory performance on the ROIs without compromising presence and user experience.
+abstract: The increasing popularity of virtual reality provides new opportunities for online exhibitions, especially for fragile artwork in museums. However, the limited guidance approaches of virtual museums might hinder the acquisition of knowledge. In this paper, a novel interaction concept is proposed named GazeTance Guidance, which leverages the user’s gaze point and interact-distance towards the region of interest (ROI) and helps users appreciate artworks more organized. We conducted a series of comprehension tasks on several long scroll paintings and verified the necessity of guidance. Comparing with no-guidance mechanisms, participants showed a better memory performance on the ROIs without compromising presence and user experience.
 
 # Summary. An optional shortened abstract.
 summary: A more comprehensible exhibition for virtual museums.
