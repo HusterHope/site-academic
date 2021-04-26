@@ -52,9 +52,9 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1iMmX2RR1Wlj6IDaYF5wKMfZ5x-1AmUKi70pL8K5m0Zg/edit?usp=sharing'
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/vQjzZDxqD6c'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
