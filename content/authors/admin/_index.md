@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:luhp9696@gmail.com
     label: Contact
   - icon: zhihu
     icon_pack: fab
