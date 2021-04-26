@@ -50,7 +50,7 @@ featured: true
 url_pdf: 'https://conferences.computer.org/vrpub/pdfs/VRW2021-2ANNoldm4A10Ml9f63uYC9/136700a462/136700a462.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://github.com/HusterHope/site-academic/raw/master/content/publication/2021-VR-GTG/poster.jpg'
 url_project: ''
 url_slides: 'https://docs.google.com/presentation/d/1iMmX2RR1Wlj6IDaYF5wKMfZ5x-1AmUKi70pL8K5m0Zg/edit?usp=sharing'
 url_source: ''
@@ -78,12 +78,4 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
