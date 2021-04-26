@@ -1,15 +1,15 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Reading | IEEE VR 2019 Best Conference Paper
+subtitle: Virtual Objects Look Farther on the Sides: The Anisotropy of Distance Perception in Virtual Reality
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Virtual Objects Look Farther on the Sides: The Anisotropy of Distance Perception in Virtual Reality
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2020-02-08T00:00:00Z"
 
 # Date updated
 lastmod: "2020-02-08T00:00:00Z"
