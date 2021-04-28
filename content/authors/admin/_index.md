@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: #contact
+    link: /#contact
     label: Contact
   - icon: zhihu
     icon_pack: fab
