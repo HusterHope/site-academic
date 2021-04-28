@@ -2,7 +2,7 @@
 title: Haopeng Lu
 role: Ph.d student
 avatar_filename: avatar.png
-bio: My research interests include virtual reality and human-computer interaction.
+bio: 
 interests:
   - Virtual Reality
   - Human-Computer Interaction
