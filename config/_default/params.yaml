@@ -23,9 +23,9 @@ twitter: ''
 email: luhp9696 AT gmail DOT com
 # phone: 888 888 88 88
 address:
-  street: Yanyuan Building, No.5 Yiheyuan Road
+  street: Yanyuan Building, No.5 Yiheyuan Road, Haidian District
   city: Beijing
-  region: Haidian District
+  # region: 
   postcode: '100871'
   country: P.R. China
   country_code: CN
