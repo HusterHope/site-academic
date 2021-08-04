@@ -18,10 +18,10 @@ authors:
 # - "Equal contribution"
 
 date: "2021-03-27T00:00:00Z"
-doi: ""
+doi: "10.1109/VRW52623.2021.00113"
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-05-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -59,7 +59,7 @@ url_video: 'https://youtu.be/vQjzZDxqD6c'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
