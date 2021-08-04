@@ -39,7 +39,7 @@ summary: A relative information encoding method that yields positional and tempo
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
