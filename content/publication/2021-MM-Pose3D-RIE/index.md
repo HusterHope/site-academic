@@ -1,5 +1,6 @@
 ---
-title: "GazeTance Guidance: Gaze and Distance-Based Content Presentation for Virtual Museum"
+title: "Improving Robustness and Accuracy via Relative Information
+Encoding in 3D Human Pose Estimation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
