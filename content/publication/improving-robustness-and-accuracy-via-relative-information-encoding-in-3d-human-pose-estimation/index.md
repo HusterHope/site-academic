@@ -32,6 +32,16 @@ abstract: Most of the existing 3D human pose estimation approaches mainly focus
   enhanced representations. Our method outperforms state-of-the-art methods on
   two public datasets. Code is available at
   https://github.com/paTRICK-swk/Pose3D-RIE.
+
+url_pdf: 'https://arxiv.org/pdf/2107.13994.pdf'
+url_code: 'https://github.com/paTRICK-swk/Pose3D-RIE.'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
 draft: false
 featured: false
 image:
