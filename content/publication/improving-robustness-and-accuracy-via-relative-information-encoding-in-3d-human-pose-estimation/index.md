@@ -4,7 +4,11 @@ title: Improving Robustness and Accuracy via Relative Information Encoding in 3D
 publication_types:
   - "1"
 authors:
-  - Wenkang Shan;Haopeng Lu;Shanshe Wang;Xinfeng Zhang;Wen Gao;
+  - Wenkang Shan
+  - admin
+  - Shanshe Wang
+  - Xinfeng Zhang
+  - Wen Gao
 abstract: Most of the existing 3D human pose estimation approaches mainly focus
   on predicting 3D positional relationships between the root joint and other
   human joints (local motion) instead of the overall trajectory of the human
