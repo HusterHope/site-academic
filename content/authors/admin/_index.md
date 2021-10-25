@@ -6,6 +6,7 @@ bio:
 interests:
   - Virtual Reality
   - Human-Computer Interaction
+  - Redirected Walking
 social:
   - icon: envelope
     icon_pack: fas
