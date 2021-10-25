@@ -36,7 +36,7 @@ abstract: Most of the existing 3D human pose estimation approaches mainly focus
 url_pdf: 'https://arxiv.org/pdf/2107.13994.pdf'
 url_code: 'https://github.com/paTRICK-swk/Pose3D-RIE.'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://github.com/HusterHope/site-academic/raw/master/content/publication/improving-robustness-and-accuracy-via-relative-information-encoding-in-3d-human-pose-estimation/Poster-10.jpg'
 url_project: ''
 url_slides: ''
 url_source: ''
