@@ -1,9 +1,8 @@
 ---
 title: IEEE VR 2021-B(l)ending Realities Notes
-subtitle: Virtual Objects Look Farther on the Sides - The Anisotropy of Distance Perception in Virtual Reality
-
+subtitle: 
 # Summary for listings and search engines
-summary: A talk by 
+summary: A talk by Frank Steinicke in IEEE VR 2021
 
 # Link this post with a project
 projects: []
